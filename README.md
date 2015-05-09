@@ -3,8 +3,6 @@
 # spegregator
 Automatically segregates iPhoto libraries
 
-Made by Jaret Karnuta and William Rollins as a way to dick around
+Made by Jaret Karnuta and William Rollins
 
-
-
-8==========>~~~~~~~~~ ({})     
+"Thats just immature"    
